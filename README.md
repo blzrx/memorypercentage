@@ -13,3 +13,5 @@ Usage:
 if you use this often, you should consider adding it to your PATH, simply, copy it to /usr/local/bin without the script extension (.sh)
 
 ex: cp memorypercentage.sh /usr/local/bin/memper
+
+then you can type "memper" anywhere on the shell to invoke the script.
